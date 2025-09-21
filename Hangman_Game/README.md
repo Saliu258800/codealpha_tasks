@@ -41,10 +41,10 @@ or
 python3 main.py ```
 
 ## Gameplay 
-You have 7 attempts to guess the right word
-_ _ _ _ _ _ _
-> 1: Enter the right letter: a
-You have 7 attempts to guess the right word
-_ a _ a _ _ _
+```You have 7 attempts to guess the right word
+   _ _ _ _ _ _ _
+   > 1: Enter the right letter: a
+   You have 7 attempts to guess the right word
+   _ a _ a _ _ _
 
-...
+   ...

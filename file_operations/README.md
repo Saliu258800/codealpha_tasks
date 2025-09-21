@@ -26,7 +26,7 @@ Built using `os` and `shutil`, it helps you organize your images quickly and eas
    
 ## Example
 
-Enter the directory of your .jpg files: img
-Enter the directory to your destination folder: pictures
-cat.jpg successfully moved to pictures
-tree.jpg successfully moved to pictures
+```Enter the directory of your .jpg files: img
+   Enter the directory to your destination folder:    pictures
+   cat.jpg successfully moved to pictures
+   tree.jpg successfully moved to pictures
